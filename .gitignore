@@ -3,5 +3,6 @@ __pycache__/
 *.pyc
 .DS_Store
 *.ipynb_checkpoints
-Resume.pdf
+*.pdf
 venv/
+.env
