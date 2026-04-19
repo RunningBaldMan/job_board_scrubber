@@ -1,4 +1,4 @@
-# job_bard_scrubber
+# job_board_scrubber
 
 
 The goal of this project is to create a job board scrubber, read and parse a resume, and score the resume vs jobs to find jobs more likely to get call backs after applying. 
