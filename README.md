@@ -11,9 +11,11 @@ Choose the job board to scrub.
 
 
 
-Job boards to scrub *more boards to be added to this list
+Job boards to be added to scrub *more boards to be added to this list
 - remoteok
 - zip recruiter 
 - wellfound
 - glassdoor
--
+- indeed?
+- LinkedIn?
+- 
